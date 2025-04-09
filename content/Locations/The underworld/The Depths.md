@@ -1,0 +1,7 @@
+The further underground you go, the more alive you feel. You feel as though you are stronger, faster, more aware. Your body works faster. Your heart rate rapidly increases, your blood pressure rises. Your mind is faster, you cannot sleep, but you don't feel tired. Your thoughts come faster and faster until you cant make sense of them. Your mind feels more alive than ever as your body and brain start to die.
+
+
+
+The Heights
+Many have tried to climb to the top of the world. Of course, the top might not exist, it may just be a fairy tale. The researchers say that its likely true, but they don't have much to go on. We don't know where the roots lead, if we follow them deeper, our bodies cant handle the energy, if we follow them up, there isn't enough to keep us going. Our bodies get weaker and weaker until our hearts stop beating. 
+Of course, those aren't the only roots. The ones we use for food have an end, the tips hang into our farms where they can be cared for and harvested. Those roots seem different, they don't lead deeper, and we don't know where their source is. we cannot grow them on our own, we simply find them, and lead the growth to our farms. They live off of the life in the soil, but there is something else to them that we do not understand, some people say they reach to the top, and live there, but we don't know. We're still trying to reach the top, but I don't think that will happen, there's no life except the roots that can reach that far.
