@@ -44,11 +44,11 @@ Session 2
     Astros named it Roberto and is heartbroken
 
 Session 3
-    The gang travels to the [[fae forest]]. They stop in [[Serfa|Wolfwater]] at the snapdragon inn. its the rowdy one. everyone gets drunk and shenanigans ensue.<br> 
+    The gang travels to the [[Fae Forest]]. They stop in [[Serfa|Wolfwater]] at the snapdragon inn. its the rowdy one. everyone gets drunk and shenanigans ensue.<br> 
     they make it to [[Serfa|Ersonia]] and stay at the glass tulip, a nice, fae owned place
 
 Session 4
-    [[Fae forest]] time
+    [[Fae Forest]] time
     they get there and Emeil is accepted by the forest, but they fight some vines that try to stop the outsiders.
     they convince the forest that they are welcome and continue to [[Fae Forest|The heart tree]]
 
@@ -224,7 +224,7 @@ Session 9
     they went shopping
     carls colorfull capes and wilikers wonderous wardrobe are rivals
     they hate Cristina of the raven spire because she was rude to them
-    found [[Abdal stillmoon]]'s partner, heidi telet
+    found [[Abdal Stillmoon]]'s partner, heidi telet
     got the info from her
     going to head underground 
 
@@ -369,7 +369,7 @@ Session 19
     last time
     astros left
     started travel
-    [[eve]] is still having ocean problems <br> 
+    [[Eve]] is still having ocean problems <br> 
     travel encounter - fall into a 5 ft deep hole made by goblins who scatter as soon as they get out
     if they follow the goblins they find a pile of copper and silver adding up to 2 gold, and a pigeon with a note and blue tipped feathers in a cage, note has the crest of --- and reads<br> 
     laurel meet me in the city. i need to speak to you, its urgent. i cant say more here.
@@ -380,7 +380,7 @@ Session 19
     guard gets bounty hunter group on it
     after they leave - encounter <br> 
     travel
-    attack targeting [[coco]]
+    attack targeting [[Coco]]
     creepy things in the woods<br> 
     make a bounty hunter
     really weak bounty hunters for funnys
@@ -393,7 +393,7 @@ Session 20
     	Someone hired the goblins to catch messenger birds 
     	she seemed to be going to a city in ralon 
     	Made some friends :) (bounty hunters)<br> 
-    for [[emeil]] 
+    for [[Emeil]] 
     	dream from [[God of Destruction, Abdun]] messing with their tether
     	the shock of freezing water
     	leaving...somewhere, in the middle of the night

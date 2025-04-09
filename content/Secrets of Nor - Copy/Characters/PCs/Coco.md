@@ -20,7 +20,7 @@ What kind of emotional arc do you want for them, (i will also do others, but if 
 What does cocos ideal life look like'
 	herbalist 
 s
-[[ralon]]
+[[Ralon]]
 
 
 

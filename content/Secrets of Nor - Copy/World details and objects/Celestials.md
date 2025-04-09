@@ -1,7 +1,7 @@
 Sky celestials:
 	airborn creatures
 	they mostly live far into space and are very rare
-	there are only a few known skys that have visited [[nor]], one of them being [[Eve]]'s ancestor
+	there are only a few known skys that have visited [[Nor]], one of them being [[Eve]]'s ancestor
 	there are two types
 	*name*s and nebulars
 	nebular are MASSIVE, there are many theories that some, if not all, nebulas are actually these creatures. hence the name 

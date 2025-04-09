@@ -20,9 +20,9 @@ Pippa
 	excited and a little stutter
 
 Novis (real name Thalun)
-    kid [[coco]] saved
+    kid [[Coco]] saved
     17
-    was left in an orphanage in [[letta]]
+    was left in an orphanage in [[Letta]]
     after never leaving his home before the coco event, he got restless and decided to leave and explore the world
     ended up in thernaton and joined the [[Thernaton Resistance]]
     friendly and excitable 
