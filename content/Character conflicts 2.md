@@ -1,6 +1,3 @@
----
-title: Character conflicts
----
 
 [[Astros]] and his god [[God of Destruction, Abdun]]
 [[Eve]] and the [[Celestials]]
