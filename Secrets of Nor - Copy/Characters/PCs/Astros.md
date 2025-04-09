@@ -1,3 +1,6 @@
+---
+title: Astros
+---
 
 grew up in the [[Fae Forest]]
 
