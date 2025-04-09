@@ -1,6 +1,5 @@
 ---
 title: LET ME INNN
-draft: false
 tags:
 ---
 this is a link to an empty file [[no prompt, no content]]
