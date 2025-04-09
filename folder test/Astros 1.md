@@ -1,6 +1,7 @@
 ---
 title: Astros
-tags:
+tags: 
+draft: false
 ---
 
 grew up in the [[Fae Forest]]
