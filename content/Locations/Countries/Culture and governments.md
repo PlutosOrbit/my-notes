@@ -28,7 +28,7 @@ Culture
 Government
 	 hahahah oh wait you were serious? there is no leader here, Kir is only a country by formality, after the civil war in Kirzin, Kir crumbled
 
-[[Thernaton]]
+[[content/Locations/Countries/Thernaton]]
 Culture
 Government
 	organized religion politics in the worst way, nobility is granted by the state

@@ -1,2 +1,5 @@
-home of the [[pirates]]
-Crash point of [[The Meteor]]
+Located in the center of the mainland, The Spires are a strange sight. They rise out of a usually deep ocean and reach high into the sky. 
+
+Magic in the area is strange and warps the native creatures over time (think magical radiation). Often creatures that would normally have fur, grow feathers and wings in order to fly around the peaks of the spires. Plants are much more extreme as well. Some will viciously attack anything that gets too close, others have bright red berries that can easily eaten or turned into potions to regain magical energy.
+
+As this area is between most continents on the mainland, it is an idea trade route for those who know how to sail the waters. This has made it an ideal home for [[content/Locations/Pirates|Pirates]]. The pirate guilds know the spires like the back of their hands and can easily hide in hidden bays to escape pursuit or ambush merchant vessels. 

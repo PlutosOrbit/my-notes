@@ -9,11 +9,11 @@ Iral
 Cassy 
     (he/him) trans
     very autistic and hyper
-    has magic so had to leave [[Thernaton]] but still thinks of it has his home
+    has magic so had to leave [[content/Locations/Countries/Thernaton]] but still thinks of it has his home
     tries to defend it a little
 Tassac
     forger
     sleepy 
     might be nice if you get him coffee
 
-have a little info on [[Thernaton Resistance]]
+have a little info on [[content/Characters/Thernaton Resistance]]

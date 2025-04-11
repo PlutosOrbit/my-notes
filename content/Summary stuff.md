@@ -1,4 +1,4 @@
-[[Timeline]]
+[[content/World details and objects/History/Timeline]]
 ## Nor
 
 Welcome to the land of Nor.
@@ -35,33 +35,33 @@ The mainland is riddled with underground tunnels reaching deep into the earth. V
 
 ## Countries
 Thernaton
-![[TTaAQqEwt6rPj3KddYiaot.jpg|395]]
+![[content/Excalidraw/pictures/TTaAQqEwt6rPj3KddYiaot.jpg|395]]
 Thernaton is a small country sandwiched in-between much more powerful kingdoms. They are the religious center for followers of The Old Gods, they are also seen as the holy land for this religion. They are pretentious assholes but no one can interfere or declare war on them due to their influence. Kirzin tried to declare war on thermalon. that backfired as the religion was popular enough to cause a civil war. The country split apart with Kir being labeled as heretics. 
 Magic is seen as wild and powerful so it can only be used by religious leaders who have gone though training to control it. 
 (Thernaton has the vibes of Spanish Inquisition and Owl House Belos)
 
-[[Kir]] and [[Zin]]
+[[content/Locations/Countries/Kir]] and [[content/Locations/Countries/Zin]]
 ![[Summary stuff-20240805101147983.webp|392]]
 Kir and Zin were initial a large country known as Kirzin. After Thernaton started pushing for more and more influence, Kirzin declared war on them. due to Thernatons status as a religious center, this caused a rift in opinions that lead to a civil war. The country then divided into Kir and Zin, with those in favor of the war banished to Kir and labeled as heretics. 
 Kir is still struggling to get the country under control after the split. Any government that forms is weak and dissolves quickly. 
 The north of Kir is covered in large sand dunes the size of mountains. many tribes of raiders live among these, somehow creating structures inside the dunes
 
-[[Serfa]]
+[[content/Locations/Countries/Serfa]]
 ![[Summary stuff-20240805101204763.webp|355]]
-Serfa is located to the northwest of [[Orin]], it is home to the [[Fae Forest]] and near the [[Capson Mountains]]. Serfa mostly wants to be left alone, and due to their distance from the mainland they have been. They have a large export of sheep and wool and stuff
+Serfa is located to the northwest of [[content/Locations/Countries/Orin]], it is home to the [[content/Locations/Fae Forest]] and near the [[content/Locations/Geology/Capson Mountains]]. Serfa mostly wants to be left alone, and due to their distance from the mainland they have been. They have a large export of sheep and wool and stuff
 
-[[Orin]]
+[[content/Locations/Countries/Orin]]
 Orin on the other side of the Capson mountains. Despite their proximity to Serfa, no conflicts have ever broken out between them. It would be impractical to try and manage land across the impassible mountains, and they have no reason to fight. Orin has a lot of mining due to caves containing precious metals and gems.
 
-[[Letta]]
+[[content/Locations/Countries/Letta]]
 ![[Summary stuff-20240805101247520.webp|472]]
 Letta is in the middle of everything, and has lots of influence on all sides. The country is supposed to be run by a council. this council still exists, but with so many alliances and deals with all sides, those deals began to be more connected to the council members, rather than the country as a whole. even after they were no longer in power, those leaders still retained the deals, and were very prosperous. Over time, their families grew in power and created a rich and powerful noble class. These noble families have much more influence than the actual concil. 
 Before the borders of countries were settled, Letta was trying to control all the land around the spires, creating a monopoly on trade though that area.
 
-[[Ralon]]
+[[content/Locations/Countries/Ralon]]
 Ralon is mostly rainforest, with a mountain range in the middle. The mountains are home to many monasteries. Due to the dangerous creatures and the thick vegetation, most of the roads and cities are built on or supported by the large trees.
 
-[[Dest]]
+[[content/Locations/Countries/Dest]]
 Dest is the southern most country. It is cold most of the time, and the culture and economy revolves around fishing. Near the ice wall there are research stations and exploration teams trying to discover what is beyond the ice wall, and why it exists. people have made it over the wall, but it is very dangerous and they don't get very far before turning back or dying. 
 ## The gods
 Over time, when the need arises for new gods to govern aspects of the world, those gods are created through the power of the Old Gods. Each of these gods have no power outside of their domains, however, the definitions of those domains are flexible. To our knowledge, no gods have been formed since the god of the sea, centuries ago.
