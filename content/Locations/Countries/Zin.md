@@ -1,0 +1,2 @@
+Government
+	 semi functional monarchy 

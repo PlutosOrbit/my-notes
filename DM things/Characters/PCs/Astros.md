@@ -1,5 +1,5 @@
 
-grew up in the [[content/Locations/Fae Forest]]
+grew up in the [[content/Locations/Geology/Fae Forest]]
 
 At 9, he disobeyed his parents and wert into the forest to pick flowers on his own. he heard screaming and tried to run back but the normally friendly forest stopped him. he was trapped until the yelling stopped, and then ran back to find his tribe slaughtered. 
 His tribe, the [[content/Characters/Skaphos Clan]], was killed by [[content/Characters/NPC/The dark doves]] as an act of revenge for something another satyr tribe had done. they got into the forest with the help of [[content/Characters/NPC/Abdal Stillmoon]].

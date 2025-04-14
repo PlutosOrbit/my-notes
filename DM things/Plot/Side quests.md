@@ -1,6 +1,6 @@
 Return child quest
 		child is lost and got transported here recently
-	was drawn to the [[content/Locations/Fae Forest]] but doesn't know what to do now
+	was drawn to the [[content/Locations/Geology/Fae Forest]] but doesn't know what to do now
 	wants to go home
 	(make parallels to Emeil)
 possible solutions

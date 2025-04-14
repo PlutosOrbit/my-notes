@@ -1,6 +1,6 @@
 Session 1
     Party starts in [[content/Locations/Countries/Serfa]] in Lullen
-    town has a display of an artifact from the [[content/Locations/Fae Forest]]     <br>
+    town has a display of an artifact from the [[content/Locations/Geology/Fae Forest]]     <br>
     Eve is there to steal it?-check
     coco is there for
     astros is there for info on the dark doves
@@ -44,13 +44,13 @@ Session 2
     Astros named it Roberto and is heartbroken
 
 Session 3
-    The gang travels to the [[content/Locations/Fae Forest]]. They stop in [[content/Locations/Countries/Serfa|Wolfwater]] at the snapdragon inn. its the rowdy one. everyone gets drunk and shenanigans ensue.<br> 
+    The gang travels to the [[content/Locations/Geology/Fae Forest]]. They stop in [[content/Locations/Countries/Serfa|Wolfwater]] at the snapdragon inn. its the rowdy one. everyone gets drunk and shenanigans ensue.<br> 
     they make it to [[content/Locations/Countries/Serfa|Ersonia]] and stay at the glass tulip, a nice, fae owned place
 
 Session 4
-    [[content/Locations/Fae Forest]] time
+    [[content/Locations/Geology/Fae Forest]] time
     they get there and Emeil is accepted by the forest, but they fight some vines that try to stop the outsiders.
-    they convince the forest that they are welcome and continue to [[content/Locations/Fae Forest|The heart tree]]
+    they convince the forest that they are welcome and continue to [[content/Locations/Geology/Fae Forest|The heart tree]]
 
 Session 5
     plan<br>
@@ -63,7 +63,7 @@ Session 5
     side quests available at the tavern<br> 
     Return child quest
     		child is lost and got transported here recently2wq1
-    	was drawn to the [[content/Locations/Fae Forest]] but doesn't know what to do now
+    	was drawn to the [[content/Locations/Geology/Fae Forest]] but doesn't know what to do now
     	wants to go home
     	(make parallels to Emeil)
     possible solutions
@@ -82,7 +82,7 @@ Session 5
     what happened
 
 Session 6
-    travel though [[content/Locations/Fae Forest]]<br> 
+    travel though [[content/Locations/Geology/Fae Forest]]<br> 
     possible encounters<br> 
     fight with???
     bigish fight

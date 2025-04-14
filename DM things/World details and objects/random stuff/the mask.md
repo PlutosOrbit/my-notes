@@ -1,5 +1,5 @@
 
-Full backstory of it, it was made over a century ago by someone attempting to forcibly expand the [[content/Locations/Fae Forest]]. They failed, the forest didn't like the attempt and kinda killed/ate him (like the way trees consume bodies for nutrients). And kicked the mask out of the forest. It's power has greatly dwindled
+Full backstory of it, it was made over a century ago by someone attempting to forcibly expand the [[content/Locations/Geology/Fae Forest]]. They failed, the forest didn't like the attempt and kinda killed/ate him (like the way trees consume bodies for nutrients). And kicked the mask out of the forest. It's power has greatly dwindled
 
 
 Elrien lorna

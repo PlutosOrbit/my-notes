@@ -1,0 +1,2 @@
+Government
+	Letta is in the middle of everything, and has lots of influence on all sides. With so many alliances and deals, those deals began to be more connected to the council members, rather than the country as a whole. Even after they were no longer in power, those leaders still retained the deals, and were very prosperous. Over time, their families grew in power and created a rich and powerful noble class. This noble class does not technically run the country, but it does in practice.

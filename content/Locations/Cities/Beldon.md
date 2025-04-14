@@ -9,19 +9,23 @@ belot su Gama-
 	time knowledge and creation- the largest guild, studying the old gods
 
 Raven spire-
+
 	Emblem -  water droplet falling towards its refection
 	magical distortions - the center and the forest
 	[[content/Characters/NPC/Abdal Stillmoon]]
 
 The endless-
+
 	Emblem - Path of stars leading though dark water
 	the dead zone - researching and trying to break though [[content/Locations/Geology/The Edge]]
 
 Dragon blood-
+
 	Emblem - A shield with a claw on it
 	weapons RnD - trying to make magical weapons
 
 The shining smoke-
+
 	Emblem - A vine with 8 flowers
 	known magic - pushing the boundaries and working off of already known magic
 

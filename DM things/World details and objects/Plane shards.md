@@ -1,6 +1,6 @@
 When [[DM things/World details and objects/History/The Meteor]] crashed though the planes it scattered plane shards over the material plane
 
-Faewild shard - [[content/Locations/Fae Forest]]
+Faewild shard - [[content/Locations/Geology/Fae Forest]]
 
 fire elemental plane - the volcanos 
 
