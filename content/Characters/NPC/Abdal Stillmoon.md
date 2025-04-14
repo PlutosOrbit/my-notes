@@ -1,11 +1,10 @@
 Abdal Stillmoon 
 - Half Elf Wizard
-Her partner was Heidi Telet
-former member of the raven spire guild
+- former member of the raven spire guild
 
-Abdal's story
+#### Abdal's story
 
-Abdal was a well known researcher from [[Beldon]]. She was granted access to the [[Fae Forest]] and would make trips to document things or trade with people. she visited several different groups in the southern area of the forest. one of these was the [[Skaphos Clan]]. She has been there twice but Astros never really paid attention. Heidi was dating Abdal's for a few years, she didn't want to be seen as "Abdal's partner", and kept their relationship quiet. everyone knew they were together, but it was never a big thing. By Heidi's request their relationship was left vague in books
+Abdal was a well known researcher from [[Beldon]]. She was granted access to the [[Fae Forest]] and would make trips to document things or trade with people. she visited several different groups in the southern area of the forest. one of these was the [[Skaphos Clan]]. She has been there twice but Astros never really paid attention. Heidi Telet was dating Abdal's for a few years, she didn't want to be seen as "Abdal's partner", and kept their relationship quiet. everyone knew they were together, but it was never a big thing. By Heidi's request their relationship was left vague in books
 
 10 years ago Abdal was approached by [[The dark doves]], who said they were interested in meeting a satyr clan in the forest. Abdal didn't take any precautions and agreed. She took them to the Skaphos Clan. When the attack started she tried to help but was cornered by Balo. He told her that there was nothing she could do, and if she interfered they would kill her too. Abdal knew that if she died, the protection she gave to them would be revoked and the forest would intervene. However she chose her own life and stood by as Skaphos clan was wiped out. After taking the dark doves out of the forest she ran home and packed everything she could before running into the smuggler tunnels underneath the city
 

@@ -27,11 +27,9 @@ God of life - Likon
 	Very little is known about the god of life, including their name. All that is known is that they are very powerful, and very old.
 
 God of the seas - Verinalur
-	The god of the seas is said to live far past [[content/Locations/Geology/The Edge]], with her power growing further from the mainland. Sailors that venture with the blessing of the sea god, can travel into the dead zone for a ways. She is typically temperamental, and she demands respect. 
+	The god of the seas is said to live far past [[The Edge]], with her power growing further from the mainland. Sailors that venture with the blessing of the sea god, can travel into the dead zone for a ways. She is typically temperamental, and she demands respect. 
 
-[[content/Characters/God of Destruction, Abdun]]
+[[God of Destruction, Abdun]]
 
-_____
-Religions 
 
 
