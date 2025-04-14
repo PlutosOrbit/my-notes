@@ -1,4 +1,4 @@
-[[content/World details and objects/History/Timeline]]
+[[Timeline]]]
 ## Nor
 
 Welcome to the land of Nor.
